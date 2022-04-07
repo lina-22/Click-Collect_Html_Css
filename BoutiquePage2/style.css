@@ -8,7 +8,7 @@
     max-width: 1280px;
     margin: 0 auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: blue;
+    /* background-color: blue; */
 } 
 
 /* .landing{
@@ -99,6 +99,11 @@
     padding-top: 20px;
     text-align: center;
     word-spacing: 30px;
+}
+
+.quantity_adjust{
+    padding-top: 40px;
+    text-align: center;
 }
 #add_button{
     margin-top: 40px;
