@@ -70,10 +70,12 @@
 #sidebar2{
     text-align: center;
     padding-top: 90px;
+    word-spacing: 30px;
 }
 
 /* #section_images{
-   
+   display: inline;
+   justify-content: space-between;
 } */
 
 /* body end from boutique */

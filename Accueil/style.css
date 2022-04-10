@@ -66,7 +66,7 @@ section .header{
     /* display: flex;
     position: absolute; */
     position: absolute;
-    top: 75%;
+    top: 70%;
     left: 68%;
     /* background-color:yellow; */
     color: black solid;
@@ -128,9 +128,9 @@ section .header{
 }
 
 .mode_text1{
-    transform: rotate(290deg); 
-    padding-left: 40px; 
-    padding-top: 100px; 
+    /* transform: rotate(290deg);  */
+    padding-left: 10px; 
+    padding-top: 150px; 
     color: white;
 }
 .mode_text2{
@@ -167,6 +167,9 @@ section .header{
     padding-top: 10px;
     text-align: center;
     padding: 20px 20px;
+}
+.aide{
+    padding-left: 20px;
 }
 .faq{
     padding-top: 10px;
