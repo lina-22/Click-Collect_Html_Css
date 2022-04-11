@@ -178,7 +178,7 @@ section .header{
 }
 
 .bottom_footer{
-    height: 50px;
+    height: 60px;
     padding-left: 70px;
     padding-top: 15px;
     display: flex;
@@ -186,9 +186,10 @@ section .header{
 }
 
 .social_media{
-    display: flex;
+    height: 200px;
+    /* display: flex;
     justify-content: space-around; 
-    padding-left: 20px;
+    padding-left: 20px; */
 
     /* justify-content: space-between;
     text-align: right;

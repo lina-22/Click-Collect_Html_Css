@@ -154,7 +154,7 @@
 
 .bottom_footer{
     height: 50px;
-    padding-left: 70px;
+    padding-left: 50px;
     padding-top: 15px;
     display: flex;
     justify-content: space-around;    
@@ -174,5 +174,6 @@
 
 .media_images{
     height: 15px;
+    /* margin-left: 20px; */
     
 }
