@@ -90,7 +90,7 @@ section .header{
 }
 
 .first_landing{
-    background-color: DF2E08;
+    background-color: #DF2E08;
 }
 .first_message{
     
@@ -102,42 +102,40 @@ section .header{
     height: 200px;
     /* width: 150px; */
     display: flex;
-    justify-content: space-around;
-    
+    justify-content: space-around;    
 }
 
 .second_landing_images{
-    background-color: 17292F;
-    height: 300px;
+    background-color: #17292F;
+    height: 350px;
     display: flex;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding-left:150px;
-    padding-right: 100px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    padding-left:100px;
+    padding-right: 150px;
+    justify-content:space-between;
 }
 
 .photo_left{
-    padding-top: 20px;
-    padding-bottom: 100px;
+    padding-top: 30px;
+    padding-bottom:20px;
     padding-left: 80px;
     
 }
 .photo_right{
-    padding-top: 100px;
-    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .mode_text1{
     /* transform: rotate(290deg);  */
-    padding-left: 10px; 
-    padding-top: 150px; 
+    padding-left: 120px; 
     color: white;
 }
 .mode_text2{
-    transform: rotate(290deg); 
-    padding-right: 100px; 
-    padding-top: 100px; 
+    /* transform: rotate(290deg);  */
     color: white;
+    padding-top: 80px;
+    padding-left: 80px;
 }
 
 .footer{
