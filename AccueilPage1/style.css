@@ -58,8 +58,10 @@ section .header{
     position: relative;
 
 }
+.mainImg{position: relative;}
 .main_image{
     width: 100%;
+    position: relative;
 }
 
 .offer_inf1{
