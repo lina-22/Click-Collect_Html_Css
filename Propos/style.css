@@ -47,44 +47,34 @@
 /* util from accueil */
 
 
-/* body start for Connexion */
-#connexionPage{
-     text-align: center;
-     padding-top: 50px;
-     padding-bottom: 50px;
- }
- .connexion{
-     display: flex;
-     justify-content: space-around;
-     background-color: teal;
-     padding-top: 50px;
-     
- }
- #connexionBody{
-    padding-top: 150px;
- }
- /* .inputconnexion{
-     
- } */
+/* body start for Propos */
+#aboutPage{
+  margin-top: 150px;
+  text-align: center;
+}
+
+.propos{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(205, 245, 246);
+}
+
+.information{
+    background-color: #b5d3fa;
+    background-image: url("img/legal.jpg"), url("paper.gif");
+}
+
+.submit_button{
+   text-align: center;
+   width: 100px;
+   height: 50px;
+   border-radius: 30px;
+   border-color: turquoise;
+   
+}
  
- .placeholder{
-     width: 230px;
-     height: 50px;
-     text-align: center;
- }
- /* #inscriptionBody{
-
- } */
-
- .submit_button{
-     border-radius: 10px;
-     width: 150px;
-     height: 30px;
-     margin-left: 45px;
- }
- 
-
-/* body end from Connexion */
+/* body end from Propos */
 
 /* bellow copy from Accueil */
 .footer{
